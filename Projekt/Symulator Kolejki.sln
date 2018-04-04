@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Symulator Kolejki", "Symulator Kolejki\Symulator Kolejki.vcproj", "{7C62990B-59B9-41E7-ABAE-DDD1830A22D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C62990B-59B9-41E7-ABAE-DDD1830A22D9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C62990B-59B9-41E7-ABAE-DDD1830A22D9}.Debug|Win32.Build.0 = Debug|Win32
+		{7C62990B-59B9-41E7-ABAE-DDD1830A22D9}.Release|Win32.ActiveCfg = Release|Win32
+		{7C62990B-59B9-41E7-ABAE-DDD1830A22D9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
